@@ -26,10 +26,7 @@ Say what the step will be
 ```
 Give the example
 ```
-Will want to run the following command to ensure a clean install
-```
-./mvnw clean install 
-```
+
 to clean the install periodically
 And repeat until builds correctly (no errors)
 
