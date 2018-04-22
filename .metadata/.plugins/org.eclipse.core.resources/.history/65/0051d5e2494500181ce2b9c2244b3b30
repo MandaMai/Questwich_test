@@ -1,0 +1,2 @@
+spring.data.mongodb.database=Questwich
+spring.data.mongodb.uri=mongodb://mandamai:iawa1437@questiachester-dm5eo.mongodb.net/users

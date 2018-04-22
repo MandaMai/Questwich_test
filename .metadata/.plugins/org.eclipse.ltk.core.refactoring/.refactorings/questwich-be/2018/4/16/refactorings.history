@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.questwich.questwichbe.models.Contact.java&apos; to &apos;User.java&apos;&#x0D;&#x0A;- Original project: &apos;questwich-be&apos;&#x0D;&#x0A;- Original element: &apos;com.questwich.questwichbe.models.Contact.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.questwich.questwichbe.models.User.java&apos;" description="Rename compilation unit &apos;Contact.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java&lt;com.questwich.questwichbe.models{Contact.java" name="User.java" references="false" stamp="1524295620734" version="1.0"/>
+</session>
